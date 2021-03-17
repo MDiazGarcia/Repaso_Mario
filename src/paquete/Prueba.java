@@ -6,5 +6,6 @@ public class Prueba {
 		for(int i=0;i<=10;i++) {
 			System.out.println("1x"+i+"="+1*i);
 		}
+//		Haz la tabla del 2	
 	}
 }
